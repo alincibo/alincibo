@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning and working with python<br>Learning basics of JavaScript<br>Learning C++<br>Guitar and chill
+Learning and working with python<br>Learning basics of JavaScript<br>Learning C++<br>Guitar and cars
 
 
 # 💻 Tech Stack:
